@@ -47,11 +47,11 @@ main.py
 ```
 
 ### 模块介绍：
-main.py 启动GUI
-Controller.py 控制器
-MainUi.py GUI界面
-Module-Test.py 测试模块
-ProgramManagement.py 多线程和模块加载器
+main.py 启动GUI <br>
+Controller.py 控制器<br>
+MainUi.py GUI界面<br>
+Module-Test.py 测试模块<br>
+ProgramManagement.py 多线程和模块加载器<br>
 
 ### 开发教程
 
@@ -68,8 +68,8 @@ class RunModule:
         pass
 ```
 
-在控制器中加载，name="Module-Test" 是需要加载的模块名称，log=str("TEST LOG PRINT") 是传递的参数。
-connect(self._lookTestsLog)是回调函数。
+在控制器中加载，name="Module-Test" 是需要加载的模块名称，log=str("TEST LOG PRINT") 是传递的参数。<br>
+connect(self._lookTestsLog)是回调函数。<br>
 
 ```python
 @pyqtSlot()
