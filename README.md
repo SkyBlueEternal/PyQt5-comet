@@ -3,6 +3,7 @@
 ## 简介：
 
 采用pyqtSlot+QMutex+QThread+pyqtSignal研发的多线程使用框架。
+https://pypi.org/project/PyQt5-comet/
 
 ## 安装方法：
 ```shell script
