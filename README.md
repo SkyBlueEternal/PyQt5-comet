@@ -6,7 +6,7 @@
 
 安装方法：
 ```shell script
-pip install PyQt5-comet --prefix="我的项目路径"
+pip install -i https://test.pypi.org/simple/ PyQt5-comet --prefix="我的项目路径"
 复制Lib\site-packages\PyLib和Lib\site-packages\main.p到项目根目录，即可开始使用。
 ```
 
