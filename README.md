@@ -31,7 +31,7 @@ or
 pip install PyQt5-comet --prefix="我的项目路径"
 ```
 
-最后将Lib\site-packages\PyLib和Lib\site-packages\main.py复制到项目根目录运行main.py。
+最后将Lib\site-packages\PyLib和Lib\site-packages\main.py复制到项目根目录。
 
 ## 使用教程
 
