@@ -72,7 +72,7 @@ class RunModule:
 connect(self._lookTestsLog)是回调函数。<br>
 
 ```python
-@pyqtSlot()
+    @pyqtSlot()
     def on_pushButton_clicked(self):
         self.q.lock()
         self.runCmd_ = runCmd(name="Module-Test", log=str("TEST LOG PRINT"))
