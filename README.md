@@ -70,6 +70,7 @@ class RunModule:
 
 在控制器中加载，name="Module-Test" 是需要加载的模块名称，log=str("TEST LOG PRINT") 是传递的参数。<br>
 connect(self._lookTestsLog)是回调函数。<br>
+函数调用 on_组件名称_组件动作() 定义后就可以通过装饰器调用任意组件和动作。
 
 ```python
     @pyqtSlot()
