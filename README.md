@@ -55,7 +55,7 @@ ProgramManagement.py 多线程和模块加载器<br>
 
 ### 开发教程
 
-开发好需要完成的逻辑，固定class RunModule 方法update 返回值为字符串。
+开发好需要完成的逻辑，固定class RunModule 方法update 返回值为字符串，保存为Module-Test.py文件。
 
 ```python
 class RunModule:
